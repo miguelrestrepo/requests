@@ -41,8 +41,8 @@ from .util import (
     assert_fingerprint,
     get_host,
     is_connection_dropped,
-    Timeout,
     ssl_wrap_socket,
+    Timeout,
 )
 
 
